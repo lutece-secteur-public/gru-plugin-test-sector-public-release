@@ -41,7 +41,7 @@
 	
     <scm>
         <connection>scm:git:https://github.com/lutece-secteur-public/gru-plugin-test-sector-public-release.git</connection>
-        <developerConnection>scm:git:https://github.com/lutece-platform/gru-plugin-test-sector-public-release.git</developerConnection>
-        <url>https://github.com/lutece-platform/gru-plugin-test-sector-public-release.git</url>
+        <developerConnection>scm:git:https://github.com/lutece-secteur-public/gru-plugin-test-sector-public-release.git</developerConnection>
+        <url>https://github.com/lutece-secteur-public/gru-plugin-test-sector-public-release.git</url>
   </scm>
 </project>
