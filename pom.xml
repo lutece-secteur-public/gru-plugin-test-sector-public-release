@@ -10,7 +10,7 @@
 	<groupId>fr.paris.lutece.plugins</groupId>
 	<artifactId>plugin-test-sector-public-release</artifactId>
 	<packaging>lutece-plugin</packaging>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<name>Lutece testsectorpublicrelease plugin</name>
 	
 	<repositories>
@@ -43,6 +43,6 @@
         <connection>scm:git:https://github.com/lutece-secteur-public/gru-plugin-test-sector-public-release.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-secteur-public/gru-plugin-test-sector-public-release.git</developerConnection>
         <url>https://github.com/lutece-secteur-public/gru-plugin-test-sector-public-release.git</url>
-    <tag>HEAD</tag>
+    <tag>gru-plugin-test-sector-public-release-1.0.1</tag>
   </scm>
 </project>
