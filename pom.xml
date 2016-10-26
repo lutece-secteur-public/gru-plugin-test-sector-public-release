@@ -10,7 +10,7 @@
 	<groupId>fr.paris.lutece.plugins</groupId>
 	<artifactId>plugin-test-sector-public-release</artifactId>
 	<packaging>lutece-plugin</packaging>
-	<version>1.0.12-SNAPSHOT</version>
+	<version>1.0.13-SNAPSHOT</version>
 	<name>Lutece testsectorpublicrelease plugin</name>
 	
 	<repositories>
